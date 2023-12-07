@@ -65,6 +65,43 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
+# Projet Salle de sport
+
+Projet de site d'un restaurant construit avec Laravel 10.
+
+## Prérequis
+
+- PHP 8.2
+- MySql
+- Composer 2.6.5
+- npm 10.2.3
+
+## Installation
+
+```bash
+composer install
+npm install
+```
+
+## Utilisation
+
+Dans un premier terminal, lancez :
+
+```bash
+php artisan serve
+```
+Dans un autre terminal, lancez :
+
+```bash
+npm run dev
+```
+
+Pour voir la page d'accueil, ouvrez : [Accueil](http://127.0.0.1.8000)
+
+## Mentions légales
+
+Les images suivantes ont été utilisées : 
+
 Photo de <a href="https://unsplash.com/fr/@sammoghadamkhamseh?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Sam Moghadam Khamseh</a> sur <a href="https://unsplash.com/fr/photos/femme-en-debardeur-noir-et-pantalon-noir-faisant-de-lexercice-0sa8D74iodI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
 Photo de <a href="https://unsplash.com/fr/@risennnnn?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Risen Wang</a> sur <a href="https://unsplash.com/fr/photos/equipement-de-gymnastique-a-linterieur-de-la-chambre-20jX9b35r_M?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
