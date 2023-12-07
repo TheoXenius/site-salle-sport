@@ -65,7 +65,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
+Photo de <a href="https://unsplash.com/fr/@sammoghadamkhamseh?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Sam Moghadam Khamseh</a> sur <a href="https://unsplash.com/fr/photos/femme-en-debardeur-noir-et-pantalon-noir-faisant-de-lexercice-0sa8D74iodI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
 Photo de <a href="https://unsplash.com/fr/@risennnnn?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Risen Wang</a> sur <a href="https://unsplash.com/fr/photos/equipement-de-gymnastique-a-linterieur-de-la-chambre-20jX9b35r_M?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
-Photo de <a href="https://unsplash.com/fr/@sammoghadamkhamseh?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Sam Moghadam Khamseh</a> sur <a href="https://unsplash.com/fr/photos/femme-en-debardeur-noir-et-pantalon-noir-faisant-de-lexercice-0sa8D74iodI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
