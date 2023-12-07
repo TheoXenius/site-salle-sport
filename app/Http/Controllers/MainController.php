@@ -7,27 +7,27 @@ use Illuminate\Http\Request;
 class MainController extends Controller
 {
     public function AccueilController()
-{
-    return view('accueil');
-}
+    {
+        return view('accueil');
+    }
 
     public function CoursController()
-{
-    return view('cours');
-}
+    {
+        return view('cours');
+    }
 
     public function Tarifscontroller()
-{
-    return view('tarifs');
-}
+    {
+        return view('tarifs');
+    }
 
     public function ContactController()
-{
-    return view('contact');
-}
+    {
+        return view('contact');
+    }
 
     public function MentionsLegalesController()
-{
-    return view('mentions-legales');
-}
+    {
+        return view('mentions-legales');
+    }
 }
