@@ -21,16 +21,16 @@ Route::get('/cours', function () {
     return view('cours');
 });
 
-Route::get('/tarif', function () {
-    return view('tarif');
+Route::get('/tarifs', function () {
+    return view('tarifs');
 });
 
 Route::get('/contact', function () {
     return view('contact');
 });
 
-Route::get('/mention-legale', function () {
-    return view('mention-legale');
+Route::get('/mentions-legales', function () {
+    return view('mentions-legales');
 });
 
 
