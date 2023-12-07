@@ -29,8 +29,8 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
-Route::get('/mention légale', function () {
-    return view('mention légale');
+Route::get('/mention-legale', function () {
+    return view('mention-legale');
 });
 
 
