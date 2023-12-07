@@ -6,6 +6,9 @@
     <title>{{ config('app.name') }} - @yield('title')</title>
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500&family=Poppins:ital,wght@0,100;0,200;0,400;0,500;1,100&display=swap');
+</style>
 <body>
     <header>
         <h1>site-salle-sport</h1>
